@@ -6,7 +6,7 @@ Tiago Farinha PAP
 
 ```bash
 └───tfpap
-    ├───API // Responsible for communication
+    ├───API // Communication Way
     ├───Kernel // Data collection system
     └───Website // Data visual interface
 ```
