@@ -4,7 +4,7 @@
 # tfpap
 Tiago Farinha PAP 
 
-## Color Reference
+## Versions
 
 | Version             | Status                                                               |
 | ----------------- | ------------------------------------------------------------------ |
@@ -14,7 +14,8 @@ Tiago Farinha PAP
 
 Install my project
 
-``` git clone https://github.com/TF8088/tfpap.git
+```
+git clone https://github.com/TF8088/tfpap.git
 cd tfpap
 ```
 
