@@ -1,4 +1,4 @@
-![Logo](https://discord.com/channels/952673270321258536/952673270321258539/989086776138297404)
+![Logo](https://media.discordapp.net/attachments/952673270321258539/989086775890804756/1.png?width=404&height=404)
 
 
 
