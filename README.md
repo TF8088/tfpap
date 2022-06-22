@@ -4,11 +4,18 @@
 # tfpap
 Tiago Farinha PAP 
 
+```bash
+└───tfpap
+    ├───API // Responsible for communication
+    ├───Kernel // Data collection system
+    └───Website // Data visual interface
+```
 ## Versions
 
 | Version             | Status                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | 0.0.1 | Not yet released |
+
 
 ## Installation
 
