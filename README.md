@@ -14,7 +14,7 @@ Tiago Farinha PAP
 
 Install my project
 
-```
+```bash
 git clone https://github.com/TF8088/tfpap.git
 cd tfpap
 ```
