@@ -12,9 +12,9 @@ Tiago Farinha PAP
 ```
 ## Versions
 
-| Version             | Status                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| 0.0.1 | [🔗](https://github.com/TF8088/tfpap/tree/main/v0.0.1) |
+| Version             | Status                                                               | Links |
+| ----------------- | ------------------------------------------------------------------ | ----------- |
+| 0.0.1 | ✔️ | [🔗](https://github.com/TF8088/tfpap/tree/main/v0.0.1) |
 
 
 ## Installation
