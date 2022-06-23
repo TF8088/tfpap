@@ -19,7 +19,7 @@ Tiago Farinha PAP
 
 ## Installation
 
-API
+- API
 
 ```bash
 git clone https://github.com/TF8088/tfpap.git
