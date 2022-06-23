@@ -1,5 +1,5 @@
 ![Logo](https://media.discordapp.net/attachments/952673270321258539/989088557752791040/signature_1.png)
-[![DISCORD](https://img.shields.io/discord/844315476620214362?label=Discord)](https://discord.gg/mf7h2pjR)
+[![DISCORD](https://img.shields.io/discord/844315476620214362?label=Discord)](https://discord.gg/invite/7SVKWDA6UY)
 
 # tfpap
 Tiago Farinha PAP 
